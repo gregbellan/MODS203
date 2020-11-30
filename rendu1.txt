@@ -1,0 +1,23 @@
+1. Give an introduction about your topic. (≈ 1/2 − 1 page)
+(a) What is the context or background? (b) What is the research question?
+(c) What is your approach to answer this question (broadly)?
+(d) Procure four academic or other (blog/newspaper/etc.) references around this topic.
+
+
+2. Describe your data collection strategy. (≈ 1 − 1.5 page)
+(a) What is the data source that you will use? What is the actual purpose of this data (i.e.
+platform for searching services xy)?
+(b) How do you get access? Will you scrape the data, or will you use an application- programming interface? Which Python packages do you plan to use?
+(c) Did you already face restrictions like Captchas or other forms of blocking? Have you verified other means to access the data?
+(d) What is one observation in your data (e.g. a price quote, a review, an appointment)? What are the different dimensions of the data (car model, doctor, city, time, versions, etc.)? Are the dimensions the same across all the data you collect?
+(e) Which is the information you will extract? What is the list of variables that you will have in the columns of a table you use for the analysis? Please provide a screenshot where this becomes more apparent.
+(f) What is your strategy to create the sample and in order to increase the number obser- vations? How and by what do you filter the data (e.g. some category, a set of cities, etc.)?
+(g) How many observations do you expect to collect in the end?
+
+
+3. Describe your first ideas for a possible outline for the analysis (≈ 1/2 − 1 page).
+(a) Do you expect any steps to pre-process the data that might be time-consuming?
+(b) What kind of tables would you produce?
+(c) What kind of visualization could be insightful?
+(d) For which purpose could you use regression techniques?
+(e) Finally, describe a possible outcome of your study, or a type of outcome, and why you think it is interesting.
