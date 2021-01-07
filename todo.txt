@@ -1,0 +1,9 @@
+La partie data cleaning est terminé je pense, c'est le début du notebook Data_Analysis. Le résultat est dans le fichier formated_data.csv et il est plutôt propre.
+
+Pour l'analyse : ça pourrait être bien de faire plusieurs catégories de jeux selon leur genre (action il est quasiment partout donc faut trouver d'autres genres pour distinguer des groupes)
+	Sports/Adventure/Strategy ?
+
+Avec les dates on peut faire des regroupements par années, prendre la moyenne des variables sur une année et regarder comment ça évolue au cours du temps. On peut aussi tracer le score du jeu en fonction de la configuration class pour chaque année et pour toutes les données, pour voir si on a la même tendance.
+On peut aussi faire la même chose mais en comparant les jeux gratuits et les jeux payants, on peut même faire plusieurs catégories genre jeux gratuits, jeux pas chers et jeux chers.
+
+On peut essayer de faire une régression linéaire du score en fonction du prix, du nombre de reviews, du taux de positivité des reviews et de la configuration class voir si y'a des trucs intéressants à analyser.
