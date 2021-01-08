@@ -1,0 +1,8 @@
+classe 0 : Intel != i3, i5, i7 (Celeron, Pentium) si pas de carte graphique précise
+classe 1 : Intel i3 / dual core ou 2 / single core et une carte graphique dédiée
+classe 2 : Intel i5, 4GB RAM
+classe 3 : Intel i5 ou i7, 8GB RAM
+
+si y'a pas élément processor => classe 0
+
+Si y'a aucun de tous nos critères => classe 0
